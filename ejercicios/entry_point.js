@@ -4,7 +4,7 @@ const http = require("http");
 
 function requestController (){
     // logica de la funcion
-    console.log("recibimos una nueva request");
+    console.log("se recibio una nueva request");
 };
 
 // Configuracion del servidor

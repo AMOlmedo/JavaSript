@@ -1,0 +1,23 @@
+{
+  "name": "app-full-stack",
+  "version": "1.0.0",
+  "description": "Curso Martin Guesaldo Full Stack",
+  "homepage": "https://github.com/AMOlmedo/JavaSript#readme",
+  "bugs": {
+    "url": "https://github.com/AMOlmedo/JavaSript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMOlmedo/JavaSript.git"
+  },
+  "license": "ISC",
+  "author": "Adrian",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
