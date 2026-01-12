@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container-form {
+    display: flex;
+    flex-direction: column;  /*los apila verticalmente*/
+    width: 50%;
+}
+
+.container-form input{
+    margin-bottom: 20px;  /* espacio entre los imputs*/
+}
+
+.container-form textarea{
+    margin-top: 30px;
+}
+
+.container-form button{
+    margin-top: 40px;
+}

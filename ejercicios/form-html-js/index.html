@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo Formulario</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>DATOS DE LA PERSONA:</h1>
+    <form action="javascript:void(0)" name="usuarioForm" onsubmit="procesar()">
+        <div class="container-form">
+        
+            <input type="text" name="Nombre"  placeholder="Nombre" required autofocus>
+            <label for="">complete el campo</label>
+            <input type="text" name="Apellido"  placeholder="Apellido" required>
+            <label for="">complete el campo</label>
+            <input type="text" name="Direccion"  placeholder="Direccion" required>
+            <label for="">complete el campo</label>
+            <input type="email" name="email"  placeholder="email" required>
+            <label for="">complete el campo</label>
+        
+            <button type="submit">Enviar</button>
+        </div>
+    </form>
+    <script src="script.js "></script>
+    
+</body>
+</html>
