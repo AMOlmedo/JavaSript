@@ -1,4 +1,5 @@
 # JavaSript
 
-curso pildorasinformaticas 
-curso frontend -backend y bd Martin Gesualdo
+##curso pildorasinformaticas 
+##curso todocode javascript.
+##curso frontend -backend y bd Martin Gesualdo
